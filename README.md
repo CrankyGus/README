@@ -4,10 +4,8 @@ Hello, my name is Mean. I'm from TRAT,Thailand. Currently studying in the Facult
 ## Languages Skills
 <img src="https://media.discordapp.net/attachments/965927386271055892/965929151993364481/unknown.png">
 
-## Total Git Stats
+## Total GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrankyGus&hide=contribs,prs)
-
-## Top Languages 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrankyGus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
