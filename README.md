@@ -10,4 +10,6 @@ Hello, my name is Mean. I'm from TRAT,Thailand. Currently studying in the Facult
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrankyGus&hide=contribs,prs)
 
+## Example Projects
 
+<img src="https://media.discordapp.net/attachments/965927386271055892/965931685583650816/ezgif-3-0ee1386f3a.gif">
