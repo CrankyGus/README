@@ -1,4 +1,5 @@
-### Hi there 😊
+## CrankyGus
+Hello, my name is Mean. I'm from TRAT,Thailand. Currently studying in the Faculty of Computer Engineering at Rangsit University. I want to be a Full-Stack developer.
 
 ## Total Git Stats
 
