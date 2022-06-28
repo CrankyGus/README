@@ -11,8 +11,7 @@ Hello, My name is Mean. I'm from TRAT,Thailand. Currently studying in the Facult
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jirateep-loyma-082021230/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AMYOL66)
 
-## Technical skill
-<img src="https://media.discordapp.net/attachments/965927386271055892/965929151993364481/unknown.png">
+
 
 ## Interests
 ### Database
@@ -32,7 +31,8 @@ Hello, My name is Mean. I'm from TRAT,Thailand. Currently studying in the Facult
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-
+## Technical skill
+<img src="https://media.discordapp.net/attachments/965927386271055892/965929151993364481/unknown.png">
 
 ## Tools
 <img src="https://media.discordapp.net/attachments/965927386271055892/966738029278535731/unknown.png">
