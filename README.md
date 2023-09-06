@@ -1,4 +1,3 @@
-<img src="https://cdn.discordapp.com/attachments/965927386271055892/1038002931208822834/image.png" >
 
 
 
