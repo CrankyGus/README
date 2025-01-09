@@ -1,5 +1,12 @@
-<center>
 <img src="gitbg.gif"/>
-</center>
+
+
+# 👋 Hi, I'm Mean!
+
+🚀 **Front-End / Full-Stack Developer**  
+📍 Based in Bangkok, Thailand  
+
+
+
 
 
