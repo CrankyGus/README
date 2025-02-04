@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Mean!
 
-🚀 **Front-End / Full-Stack Developer**  
+🚀 **Full-Stack Developer**  
 📍 Based in Bangkok, Thailand  
 
 
